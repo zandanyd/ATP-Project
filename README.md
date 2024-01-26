@@ -40,13 +40,17 @@ MazeMaster incorporates Log4j2 for comprehensive logging, making it easy to trac
 # Features:
 
 **1. Maze Variety:**
+
 Different Sizes and Difficulty Levels:
 Choose from a selection of mazes with varying sizes and difficulty levels, ensuring a challenge suitable for all players.
+
 **2. Customization:**
+
 Character Selection:
 Personalize your gaming experience by selecting your preferred character to navigate through the maze.
 Maze Size and Difficulty Settings:
 Tailor the game to your preferences by adjusting the maze size and difficulty level, providing endless variations for exploration.
+
 **3. Save, Share, and Hint:**
 
 Save Progress:
