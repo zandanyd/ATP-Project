@@ -41,4 +41,4 @@ Personalize your adventure by selecting characters with unique abilities and adj
 - **Share Mazes:** Engage with friends by sharing mazes or challenging them to solve your favorites.
 - **Hint System:** Get help with tricky sections without stalling your progress.
 
-Explore the thrilling world of mazes with MazeMaster. Your adventure begins now! Ready to start? Download MazeMaster today and join our community of maze enthusiasts!
+## Explore the thrilling world of mazes with MazeMaster. Your adventure begins now! Ready to start? Download MazeMaster today and join our community of maze enthusiasts!
